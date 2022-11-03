@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-test"
+  site-url: "https://Dakini.github.io/test-test"
+  description: "asd"
+  repo-branch: main
+  repo-url: "https://github.com/Dakini/test-test"
